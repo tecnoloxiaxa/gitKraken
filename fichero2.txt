@@ -1,1 +1,3 @@
 este es el fichero 2.txt
+
+este sigue siendo un error
