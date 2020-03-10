@@ -1,0 +1,2 @@
+este es el fichero para otra rama
+este es para la rama master
