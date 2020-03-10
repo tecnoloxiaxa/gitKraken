@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 este es el fichero para otra rama
 este es para la rama master
+=======
+sin pull request
+>>>>>>> ae2fc28... sin pull request
